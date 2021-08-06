@@ -6,4 +6,4 @@ transformers_interpret == 0.5.1
 transformers==4.9.1
 psutil==5.7.0
 sklearn
-torch==1.5.0
+torch
