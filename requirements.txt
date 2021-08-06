@@ -1,8 +1,9 @@
-numpy
-pandas
-scikit-learn
-streamlit
-transformers_interpret
-transformers
+numpy==1.20.3
+pandas==1.2.4
+scikit-learn==0.24.1
+streamlit==0.82.0
+transformers_interpret == 0.5.1
+transformers==4.9.1
+psutil==5.7.0
 sklearn
 torch
