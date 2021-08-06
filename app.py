@@ -79,4 +79,4 @@ def main():
     #    sentence=placeholder.text_input('Input your review here:',value=' ')
 
 if __name__ == '__main__':
-    main()
+    app.run(debug=True)
