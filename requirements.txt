@@ -4,4 +4,3 @@ streamlit
 transformers==4.9.1
 sklearn
 torch
-pickle
