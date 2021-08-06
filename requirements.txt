@@ -4,6 +4,5 @@ scikit-learn
 streamlit
 transformers_interpret
 transformers
-psutil
 sklearn
 torch
